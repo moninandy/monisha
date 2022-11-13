@@ -1,0 +1,17 @@
+h1{
+    background-color: indianred;
+}
+.header{
+    background-color: cadetblue;
+}
+#name{
+    width:200px;
+}
+[datatype="check"]{
+    background-color: brown;
+}
+
+
+p:nth-child(even){
+    background-color: blueviolet;
+}
